@@ -56,3 +56,4 @@ int main()
 	o1.display();
     return 0;
 }
+//Ôö¼ÓĞŞ¸Ä......
